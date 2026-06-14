@@ -1,0 +1,130 @@
+/* Grundfarben */
+.rot { color: red; }
+.dunkelrot { color: darkred; }
+.hellrot { color: #ff6666; }
+
+.blau { color: blue; }
+.dunkelblau { color: darkblue; }
+.hellblau { color: lightblue; }
+
+.gruen { color: green; }
+.dunkelgruen { color: darkgreen; }
+.hellgruen { color: lightgreen; }
+
+.gelb { color: yellow; }
+.dunkelgelb { color: #b3b300; }
+.hellgelb { color: #ffff99; }
+
+.schwarz { color: black; }
+.weiss { color: white; }
+.grau { color: gray; }
+.hellgrau { color: lightgray; }
+.dunkelgrau { color: #555555; }
+
+/* Orange- und Brauntoene */
+.orange { color: orange; }
+.dunkelorange { color: #ffbb00; }
+.hellorange { color: #ffcc80; }
+
+.braun { color: brown; }
+.dunkelbraun { color: #4b2e2e; }
+.hellbraun { color: #c49a6c; }
+.beige { color: beige; }
+
+/* Violett- und Pinktoene */
+.lila { color: purple; }
+.violett { color: blueviolet; }
+.dunkellila { color: indigo; }
+
+.rosa { color: pink; }
+.hellrosa { color: lightpink; }
+.dunkelpink { color: #c2185b; }
+.magenta { color: magenta; }
+
+/* Cyan- und Tuerkistoene */
+.cyan { color: cyan; }
+.tuerkis { color: turquoise; }
+.helltuerkis { color: #40e0d0; }
+.dunkeltuerkis { color: #008b8b; }
+
+/* Weitere gaengige Farbnamen */
+.oliv { color: olive; }
+.gold { color: gold; }
+.silber { color: silver; }
+
+/* Pastelltoene */
+.pastellblau { color: #aec6cf; }
+.pastellgruen { color: #77dd77; }
+.pastellgelb { color: #fdfd96; }
+.pastelllila { color: #c3b1e1; }
+.pastellrosa { color: #ffd1dc; }
+
+
+/* Hintergrundfarben – Grundfarben */
+.bg-rot { background-color: red; }
+.bg-dunkelrot { background-color: darkred; }
+.bg-hellrot { background-color: #ff6666; }
+
+.bg-blau { background-color: blue; }
+.bg-dunkelblau { background-color: darkblue; }
+.bg-hellblau { background-color: lightblue; }
+
+.bg-gruen { background-color: green; }
+.bg-dunkelgruen { background-color: darkgreen; }
+.bg-hellgruen { background-color: lightgreen; }
+
+.bg-gelb { background-color: yellow; }
+.bg-dunkelgelb { background-color: #b3b300; }
+.bg-hellgelb { background-color: #ffff99; }
+
+.bg-schwarz { background-color: black; }
+.bg-weiss { background-color: white; }
+.bg-grau { background-color: gray; }
+.bg-hellgrau { background-color: lightgray; }
+.bg-dunkelgrau { background-color: #555555; }
+
+/* Orange- und Brauntoene */
+.bg-orange { background-color: orange; }
+.bg-dunkelorange { background-color: #cc8400; }
+.bg-hellorange { background-color: #ffcc80; }
+
+.bg-braun { background-color: brown; }
+.bg-dunkelbraun { background-color: #4b2e2e; }
+.bg-hellbraun { background-color: #c49a6c; }
+.bg-beige { background-color: beige; }
+
+/* Violett- und Pinktoene */
+.bg-lila { background-color: purple; }
+.bg-violett { background-color: blueviolet; }
+.bg-dunkellila { background-color: indigo; }
+
+.bg-rosa { background-color: pink; }
+.bg-hellrosa { background-color: lightpink; }
+.bg-dunkelpink { background-color: #c2185b; }
+.bg-magenta { background-color: magenta; }
+
+/* Cyan- und Tuerkistoene */
+.bg-cyan { background-color: cyan; }
+.bg-tuerkis { background-color: turquoise; }
+.bg-helltuerkis { background-color: #40e0d0; }
+.bg-dunkeltuerkis { background-color: #008b8b; }
+
+/* Weitere gaengige Farben */
+.bg-oliv { background-color: olive; }
+.bg-gold { background-color: gold; }
+.bg-silber { background-color: silver; }
+
+.bg-mint { background-color: #98ff98; }
+.bg-bordeaux { background-color: #800020; }
+.bg-koralle { background-color: coral; }
+.bg-lachs { background-color: salmon; }
+
+.bg-navy { background-color: navy; }
+.bg-teal { background-color: teal; }
+
+/* Pastelltoene */
+.bg-pastellblau { background-color: #aec6cf; }
+.bg-pastellgruen { background-color: #77dd77; }
+.bg-pastellgelb { background-color: #fdfd96; }
+.bg-pastelllila { background-color: #c3b1e1; }
+.bg-pastellrosa { background-color: #ffd1dc; }
