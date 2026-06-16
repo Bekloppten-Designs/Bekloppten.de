@@ -2,7 +2,7 @@
 
 Die offizielle Website von Bekloppten Designs.
 
-Bekloppten.de dient als zentrale Anlaufstelle für verschiedene Projekte, Dienste und Experimente. Über die Landing Page können Besucher schnell auf aktuelle Angebote wie die Cloud, das Raspi-NAS-Projekt oder weitere Webprojekte zugreifen.
+Bekloppten.de dient als zentrale Anlaufstelle für verschiedene Projekte, Dienste und Experimente.
 
 ## 🚀 Projekte
 
